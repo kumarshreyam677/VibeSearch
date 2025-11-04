@@ -1,0 +1,252 @@
+[
+  {
+    "id": "M01",
+    "title": "Inception",
+    "type": "Movie",
+    "year": 2010,
+    "rating": 8.8,
+    "genres": ["Sci-Fi", "Thriller", "Action"],
+    "moods": ["mind-bending", "cerebral", "intense", "heist"],
+    "synopsis": "A skilled thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO while battling his own haunting memories."
+  },
+  {
+    "id": "M02",
+    "title": "Interstellar",
+    "type": "Movie",
+    "year": 2014,
+    "rating": 8.7,
+    "genres": ["Sci-Fi", "Drama", "Adventure"],
+    "moods": ["emotional", "epic", "space", "philosophical"],
+    "synopsis": "As Earth becomes uninhabitable, a former NASA pilot travels through a wormhole near Saturn in search of a new home for humanity while trying to keep a promise to his daughter."
+  },
+  {
+    "id": "M03",
+    "title": "Dark",
+    "type": "Series",
+    "year": 2017,
+    "rating": 8.7,
+    "genres": ["Sci-Fi", "Mystery", "Thriller"],
+    "moods": ["mind-bending", "gloomy", "complex", "time-travel", "slow-burn"],
+    "synopsis": "The disappearance of children in a small German town exposes the double lives and fractured relationships among four families across multiple generations tied to a sinister time-travel conspiracy."
+  },
+  {
+    "id": "M04",
+    "title": "Severance",
+    "type": "Series",
+    "year": 2022,
+    "rating": 8.7,
+    "genres": ["Sci-Fi", "Mystery", "Thriller"],
+    "moods": ["eerie", "dystopian", "psychological", "slow-burn", "workplace"],
+    "synopsis": "Employees at a mysterious corporation undergo a surgical procedure that separates their work memories from their personal memories, leading to unsettling discoveries about what they actually do."
+  },
+  {
+    "id": "M05",
+    "title": "Parasite",
+    "type": "Movie",
+    "year": 2019,
+    "rating": 8.5,
+    "genres": ["Thriller", "Drama", "Comedy"],
+    "moods": ["sharp", "dark-comedy", "twist", "social-satire", "tense"],
+    "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between a wealthy tech family and the destitute household infiltrating their lives one job at a time."
+  },
+  {
+    "id": "M06",
+    "title": "Crash Landing on You",
+    "type": "Series",
+    "year": 2019,
+    "rating": 8.7,
+    "genres": ["Romance", "Drama", "Comedy"],
+    "moods": ["heartwarming", "romantic", "cozy", "emotional", "winter"],
+    "synopsis": "A South Korean heiress accidentally paraglides across the border into North Korea during a storm and is hidden and protected by an empathetic army officer who falls in love with her."
+  },
+  {
+    "id": "M07",
+    "title": "Goblin (Guardian: The Lonely and Great God)",
+    "type": "Series",
+    "year": 2016,
+    "rating": 8.6,
+    "genres": ["Fantasy", "Romance", "Drama"],
+    "moods": ["bittersweet", "romantic", "magical", "winter", "cozy"],
+    "synopsis": "An immortal goblin seeking to end his cursed existence meets a cheerful high school student who can see ghosts and holds the destiny to end his centuries-long loneliness."
+  },
+  {
+    "id": "M08",
+    "title": "Shutter Island",
+    "type": "Movie",
+    "year": 2010,
+    "rating": 8.2,
+    "genres": ["Mystery", "Thriller"],
+    "moods": ["psychological", "twist", "dark", "suspenseful"],
+    "synopsis": "Two U.S. Marshals investigate the disappearance of a patient from a remote psychiatric hospital on an isolated island, uncovering disturbing secrets that blur reality and sanity."
+  },
+  {
+    "id": "M09",
+    "title": "The Social Network",
+    "type": "Movie",
+    "year": 2010,
+    "rating": 7.8,
+    "genres": ["Drama", "Biography"],
+    "moods": ["fast-paced", "ambitious", "startup", "sharp", "tech"],
+    "synopsis": "A Harvard computer science undergrad creates a social networking site that becomes a global phenomenon, sparking bitter lawsuits over betrayal, ownership, and ambition."
+  },
+  {
+    "id": "M10",
+    "title": "Silicon Valley",
+    "type": "Series",
+    "year": 2014,
+    "rating": 8.5,
+    "genres": ["Comedy"],
+    "moods": ["witty", "startup", "tech", "satire", "lighthearted"],
+    "synopsis": "A socially awkward programmer develops a revolutionary data compression algorithm and struggles to build a startup amid eccentric founders, ruthless VCs, and tech giants."
+  },
+  {
+    "id": "M11",
+    "title": "Arrival",
+    "type": "Movie",
+    "year": 2016,
+    "rating": 7.9,
+    "genres": ["Sci-Fi", "Drama", "Mystery"],
+    "moods": ["philosophical", "slow-burn", "emotional", "cerebral", "linguistics"],
+    "synopsis": "When mysterious spacecraft touch down across the globe, a linguistics professor is recruited to decode an alien language before global tensions escalate into war."
+  },
+  {
+    "id": "M12",
+    "title": "Whiplash",
+    "type": "Movie",
+    "year": 2014,
+    "rating": 8.5,
+    "genres": ["Drama", "Music"],
+    "moods": ["intense", "obsessive", "gritty", "ambitious"],
+    "synopsis": "A promising young jazz drummer enrolls at a cut-throat music conservatory where an abusive, perfectionist instructor pushes him past every physical and mental limit."
+  },
+  {
+    "id": "M13",
+    "title": "Ex Machina",
+    "type": "Movie",
+    "year": 2014,
+    "rating": 7.7,
+    "genres": ["Sci-Fi", "Thriller", "Drama"],
+    "moods": ["minimalist", "eerie", "ai", "psychological", "cerebral"],
+    "synopsis": "A young programmer wins a week at the secluded estate of his tech company's reclusive CEO to administer the Turing test to an intelligent humanoid robot."
+  },
+  {
+    "id": "M14",
+    "title": "Her",
+    "type": "Movie",
+    "year": 2013,
+    "rating": 8.0,
+    "genres": ["Sci-Fi", "Romance", "Drama"],
+    "moods": ["melancholic", "warm", "ai", "intimate", "philosophical"],
+    "synopsis": "In a near-future Los Angeles, a lonely writer develops an unexpected and deeply emotional relationship with an advanced, self-evolving AI operating system."
+  },
+  {
+    "id": "M15",
+    "title": "Knives Out",
+    "type": "Movie",
+    "year": 2019,
+    "rating": 7.9,
+    "genres": ["Mystery", "Comedy", "Crime"],
+    "moods": ["clever", "fun", "whodunit", "twist", "cozy"],
+    "synopsis": "An eccentric detective investigates the suspicious death of a wealthy crime novelist, navigating a mansion full of greedy, lying family members."
+  },
+  {
+    "id": "M16",
+    "title": "3 Idiots",
+    "type": "Movie",
+    "year": 2009,
+    "rating": 8.4,
+    "genres": ["Comedy", "Drama"],
+    "moods": ["inspiring", "feel-good", "friendship", "college", "emotional"],
+    "synopsis": "Two friends search for their long-lost college companion while recalling how his unconventional genius challenged the rigid pressures of India's top engineering institute."
+  },
+  {
+    "id": "M17",
+    "title": "Panchayat",
+    "type": "Series",
+    "year": 2020,
+    "rating": 9.0,
+    "genres": ["Comedy", "Drama"],
+    "moods": ["wholesome", "cozy", "slice-of-life", "lighthearted", "relatable"],
+    "synopsis": "An engineering graduate reluctantly takes a low-paying government job as a village panchayat secretary in rural India while preparing for his MBA exams, slowly bonding with the quirky locals."
+  },
+  {
+    "id": "M18",
+    "title": "Steins;Gate",
+    "type": "Series",
+    "year": 2011,
+    "rating": 8.8,
+    "genres": ["Anime", "Sci-Fi", "Thriller"],
+    "moods": ["mind-bending", "time-travel", "emotional", "nerdy", "suspenseful"],
+    "synopsis": "An eccentric self-proclaimed mad scientist and his friends accidentally invent a device that sends text messages to the past, triggering devastating timeline shifts they must undo."
+  },
+  {
+    "id": "M19",
+    "title": "Death Note",
+    "type": "Series",
+    "year": 2006,
+    "rating": 8.9,
+    "genres": ["Anime", "Thriller", "Mystery"],
+    "moods": ["intense", "cat-and-mouse", "dark", "cerebral", "psychological"],
+    "synopsis": "A brilliant high school student discovers a supernatural notebook that kills anyone whose name is written in it, sparking a high-stakes intellectual duel with an enigmatic detective."
+  },
+  {
+    "id": "M20",
+    "title": "The Prestige",
+    "type": "Movie",
+    "year": 2006,
+    "rating": 8.5,
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "moods": ["obsessive", "twist", "clever", "dark", "rivalry"],
+    "synopsis": "In 1890s London, two rival stage magicians engage in a bitter, escalating battle to create the ultimate illusion, sacrificing everything in pursuit of secrecy and greatness."
+  },
+  {
+    "id": "M21",
+    "title": "Mr. Robot",
+    "type": "Series",
+    "year": 2015,
+    "rating": 8.5,
+    "genres": ["Drama", "Thriller", "Crime"],
+    "moods": ["cyberpunk", "hacker", "psychological", "dark", "gritty"],
+    "synopsis": "A socially anxious cybersecurity engineer and vigilante hacker is recruited by a mysterious anarchist to erase global consumer debt by taking down a corrupt mega-corporation."
+  },
+  {
+    "id": "M22",
+    "title": "Soul",
+    "type": "Movie",
+    "year": 2020,
+    "rating": 8.0,
+    "genres": ["Animation", "Drama", "Comedy"],
+    "moods": ["heartwarming", "philosophical", "feel-good", "cozy", "inspiring"],
+    "synopsis": "A middle-school jazz teacher gets the gig of a lifetime, only for an untimely accident to separate his soul from his body, forcing him to discover what truly makes life worth living."
+  },
+  {
+    "id": "M23",
+    "title": "Andhadhun",
+    "type": "Movie",
+    "year": 2018,
+    "rating": 8.2,
+    "genres": ["Thriller", "Mystery", "Comedy"],
+    "moods": ["twist", "dark-comedy", "clever", "suspenseful"],
+    "synopsis": "A series of bizarre events turns the life of a piano player pretending to be blind upside down when he unwittingly becomes the sole witness to a murder."
+  },
+  {
+    "id": "M24",
+    "title": "The Secret Life of Walter Mitty",
+    "type": "Movie",
+    "year": 2013,
+    "rating": 7.3,
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "moods": ["uplifting", "wanderlust", "feel-good", "dreamy", "inspiring"],
+    "synopsis": "A daydreaming photo editor steps out of his quiet routine and embarks on an extraordinary global adventure across Greenland and the Himalayas to track down a missing photograph."
+  },
+  {
+    "id": "M25",
+    "title": "Black Mirror",
+    "type": "Series",
+    "year": 2011,
+    "rating": 8.7,
+    "genres": ["Sci-Fi", "Thriller", "Drama"],
+    "moods": ["dystopian", "eerie", "tech", "dark", "thought-provoking"],
+    "synopsis": "An anthology series exploring a twisted, high-tech near-future where humanity's greatest technological innovations collide with its darkest instincts."
+  }
+]
