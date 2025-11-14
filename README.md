@@ -41,3 +41,5 @@ streamlit run app.py
 ## Key Learnings
 - L2-normalizing dense embeddings allows `FAISS IndexFlatIP` (inner product) to compute exact cosine similarity without extra overhead.
 - Pure semantic search can occasionally over-index on plot phrasing; adding a tunable lexical tag-overlap weight improves ranking precision for explicit genre/mood queries.
+
+**Live Demo:** https://vibesearch-sks.streamlit.app/
