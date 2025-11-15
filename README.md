@@ -27,7 +27,7 @@ vibesearch/
 
 ## Quickstart
 ```bash
-git clone https://github.com/<your-username>/vibesearch.git
+git clone https://github.com/kumarshreyam677/VibeSearch.git
 cd vibesearch
 pip install -r requirements.txt
 
